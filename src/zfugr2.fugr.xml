@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_FUGR" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <AREAT>Function Group 2</AREAT>
+   <INCLUDES>
+    <SOBJ_NAME>LZFUGR2TOP</SOBJ_NAME>
+    <SOBJ_NAME>SAPLZFUGR2</SOBJ_NAME>
+   </INCLUDES>
+   <FUNCTIONS>
+    <item>
+     <FUNCNAME>Z_FUGR2_FUNC1</FUNCNAME>
+     <SHORT_TEXT>Function Module 1</SHORT_TEXT>
+    </item>
+    <item>
+     <FUNCNAME>Z_FUGR2_FUNC2</FUNCNAME>
+     <SHORT_TEXT>Function Module 2</SHORT_TEXT>
+    </item>
+   </FUNCTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
