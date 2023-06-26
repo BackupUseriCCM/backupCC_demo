@@ -16,6 +16,10 @@
      <FUNCNAME>Z_FUNC2</FUNCNAME>
      <SHORT_TEXT>Function Module 2</SHORT_TEXT>
     </item>
+    <item>
+     <FUNCNAME>Z_FUNC3</FUNCNAME>
+     <SHORT_TEXT>Function Module 3</SHORT_TEXT>
+    </item>
    </FUNCTIONS>
   </asx:values>
  </asx:abap>
